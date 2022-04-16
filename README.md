@@ -1,2 +1,2 @@
-# WCS
-REPO scolaire
+# HELLO WORLD
+Just for practice
